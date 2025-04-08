@@ -1,0 +1,29 @@
+{
+  "name": "timheuer-prodpack",
+  "displayName": "Tim Heuer Productivity Pack",
+  "description": "A set of extensions by Tim Heuer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timheuer/timheuer-prodpack.git"
+  },
+  "qna": "https://github.com/timheuer/timheuer-prodpack/issues/",
+  "categories": [
+    "Extension Packs"
+  ],
+  "author": {
+    "name": "Tim Heuer"
+  },
+  "publisher": "timheuer",
+  "icon": "resources/icon.png",
+  "license": "MIT",
+  "extensionPack": [
+    "TimHeuer.jsondbg",
+    "TimHeuer.econfigedit",
+    "TimHeuer.resx-editor",
+    "TimHeuer.trxview"
+  ]
+}
