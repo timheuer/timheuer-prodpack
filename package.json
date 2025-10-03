@@ -2,7 +2,7 @@
   "name": "timheuer-prodpack",
   "displayName": "Tim Heuer Productivity Pack",
   "description": "A set of extensions by Tim Heuer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -24,6 +24,8 @@
     "TimHeuer.jsondbg",
     "TimHeuer.econfigedit",
     "TimHeuer.resx-editor",
-    "TimHeuer.trxview"
+    "TimHeuer.trxview",
+    "TimHeuer.nuget-config-editor",
+    "TimHeuer.nuget-pkg-viewer"
   ]
 }
